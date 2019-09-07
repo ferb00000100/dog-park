@@ -1,0 +1,14 @@
+
+
+h1 {
+    color: Red;
+    size: 30px;
+    border: darkblue;
+    border-style: solid;
+}
+
+h2 {
+    border-style: solid;
+    border-color: green;
+    size: 15px;
+}
